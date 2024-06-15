@@ -6,3 +6,4 @@ Flows I created for Automate app.
 
 > [!NOTE]
 > This flow automatically activate wireless debugging and set ADB over TCP/IP port 5555, allowing you to continue using your device seamlessly without manual reconfiguration after every restart.
+> Also has another flow to start Shizuku too.
