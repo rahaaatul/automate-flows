@@ -5,7 +5,7 @@ Flows I created for Automate app.
 ## [Auto ADB Mode](https://github.com/rahaaatul/automate-flows/tree/main/Auto%20ADB%20Mode) `2`
 
 1. **Auto ADB Mode**: Automatically activate wireless debugging and set ADB over TCP/IP port 5555, allowing you to continue using your device seamlessly without manual reconfiguration after every restart.
-2. **Auto ADB Mode + Shizuku**: Also has another flow to start Shizuku automatically.
+2. **Auto ADB Mode + Shizuku**: Same as ``Auto ADB Mode`` flow but with Shizuku.
 
 ## [Private DNS](https://github.com/rahaaatul/automate-flows/tree/main/Private%20DNS) `2`
 
