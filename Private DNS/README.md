@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Easily turn on/off Private DNS or change the DNS Host.
+> **Easily turn on/off Private DNS or change the DNS Host.**
 
 Table of contents:
 
@@ -17,13 +17,12 @@ Table of contents:
     - [Requirements](#requirements-1)
     - [Installation](#installation-1)
   - [Frequently Asked Questions](#frequently-asked-questions)
-    - [Private DNS](#private-dns-1)
     - [Private DNS Changer](#private-dns-changer-1)
       - [How to add more DNS' in **Private DNS Changer** flow?](#how-to-add-more-dns-in-private-dns-changer-flow)
 
 ## Private DNS
 
-> ***Tap QS Tile to turn on/off your Private DNS.***
+> **Tap QS Tile to turn on/off your Private DNS.**
 
 ### Features
 
@@ -47,15 +46,12 @@ Table of contents:
 
 ## Private DNS Changer
 
-Changes Private DNS hostname. It has 2 options:
-
-- Tap QS Tile to change DNS' chronologically.
-- Long press QS Tile to get a list of DNS' to set.
+> **Changes list of Private DNS' easily.**
 
 ### Features
 
-- Tap QS tile to change Private DNS.
-- Tap QS tile to open a list of DNS to choose from.
+- Tap QS Tile to change DNS' chronologically.
+- Long press QS Tile to get a list of DNS' to set.
 
 ### Requirements
 
@@ -75,9 +71,9 @@ Changes Private DNS hostname. It has 2 options:
 
 ## Frequently Asked Questions
 
-### Private DNS
+<!-- ### Private DNS -->
 
-⚒️ Content **Under Construction**
+<!-- ⚒️ Content **Under Construction** -->
 
 ### Private DNS Changer
 
