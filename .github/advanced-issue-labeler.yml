@@ -1,7 +1,7 @@
 policy:
   - template: ['bug_report.yml']
     section:
-      - id: ['severity', 'priority']
+      - id: ['flow_name']
         block-list: []
         label:
           - name: 'Auto ADB'
