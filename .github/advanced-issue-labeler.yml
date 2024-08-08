@@ -1,12 +1,12 @@
 policy:
   - template: ["bug_report.yml"]
     section:
-      - id: ["flow_name"]
-        block-list: []
+      - id: [flow_name]
+        block-list: [other]
         label:
-          - name: "Auto ADB"
+          - name: Auto ADB
             keys: ["Auto ADB Mode","Auto ADB + Shizuku"]
-          - name: "Islamic Prayer Alarm"
+          - name: Islamic Prayer Alarm
             keys: ["Islamic Prayer Alarm"]
-          - name: "Private DNS"
+          - name: Private DNS
             keys: ["Toggle Private DNS","Private DNS Changer","Private DNS+"]
