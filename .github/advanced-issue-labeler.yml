@@ -1,0 +1,12 @@
+policy:
+  - template: ['bug_report.yml']
+    section:
+      - id: ['severity', 'priority']
+        block-list: []
+        label:
+          - name: 'Auto ADB'
+            keys: ['Auto ADB Mode','Auto ADB + Shizuku']
+          - name: 'Islamic Prayer Alarm'
+            keys: ['Islamic Prayer Alarm']
+          - name: 'Private DNS'
+            keys: ['Toggle Private DNS','Private DNS Changer','Private DNS+']

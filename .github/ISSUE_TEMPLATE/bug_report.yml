@@ -1,7 +1,7 @@
 name: Bug Report
 description: File a bug report.
-title: "[Bug]: "
-labels: ["bug", "Auto ADB", "Private DNS", "Islamic Prayer Alarm"]
+title: "[Flow Name]: [Your Issue]"
+labels: ["bug"]
 assignees:
   - rahaaatul
 body:
@@ -18,19 +18,25 @@ body:
       value: "A bug happened!"
     validations:
       required: true
-  - type: textarea
-    id: should-happen
+  - type: dropdown
+    id: flow_name
     attributes:
-      label: What should have happened instead?
-      description: Tell us exactly what did you expect?
-      placeholder: Tell us what you see!
-      value: "This should have happened!"
+      label: Flow
+      description: What flow ?
+      options:
+        - Auto ADB Mode
+        - Auto ADB + Shizuku
+        - Islamic Prayer Alarm
+        - Toggle Private DNS
+        - Private DNS Changer
+        - Private DNS+
+      default: 0
     validations:
       required: true
   - type: dropdown
     id: android_version
     attributes:
-      label: Version
+      label: Android Version
       description: What version of Android are you running?
       options:
         - Android 14
@@ -49,7 +55,7 @@ body:
   - type: dropdown
     id: automate_version
     attributes:
-      label: Version
+      label: Automate Version
       description: What version of Automate are you running?
       options:
         - 1.43.1
