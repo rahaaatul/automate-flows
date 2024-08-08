@@ -1,0 +1,65 @@
+name: Bug Report
+description: File a bug report.
+title: "[Bug]: "
+labels: ["bug", "Auto ADB", "Private DNS", "Islamic Prayer Alarm"]
+assignees:
+  - rahaaatul
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Include screenshots or screen recordings if any.
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: textarea
+    id: should-happen
+    attributes:
+      label: What should have happened instead?
+      description: Tell us exactly what did you expect?
+      placeholder: Tell us what you see!
+      value: "This should have happened!"
+    validations:
+      required: true
+  - type: dropdown
+    id: android_version
+    attributes:
+      label: Version
+      description: What version of Android are you running?
+      options:
+        - Android 14
+        - Android 13
+        - Android 12
+        - Android 11
+        - Android 10
+        - Android 9
+        - Android 8
+        - Android 7
+        - Android 6
+        - Android 5
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: automate_version
+    attributes:
+      label: Version
+      description: What version of Automate are you running?
+      options:
+        - 1.43.1
+        - 1.43.0
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
