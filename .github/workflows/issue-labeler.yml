@@ -14,6 +14,10 @@ jobs:
       # required for all workflows
       issues: write
 
+    strategy:
+      matrix:
+        template: [ bug_report.yml ]
+
     steps:
       - uses: actions/checkout@v3
 
@@ -21,11 +25,11 @@ jobs:
         uses: stefanbuck/github-issue-parser@v3
         id: issue-parser
         with:
-          template-path: .github/ISSUE_TEMPLATE/bug_report.yml
+          template-path: .github/ISSUE_TEMPLATE/${{ matrix.template }}
 
       - name: Set labels based on Flow
         uses: redhat-plumbers-in-action/advanced-issue-labeler@v2
         with:
           issue-form: ${{ steps.issue-parser.outputs.jsonString }}
-          section: "flow_name"
+          template: ${{ matrix.template }}
           token: ${{ secrets.GITHUB_TOKEN }}
