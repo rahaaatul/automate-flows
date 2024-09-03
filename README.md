@@ -1,6 +1,6 @@
-# My Automate Flows
+# ![AutoFlows](.github/media/banner.png)
 
-Flows I created for Automate app. [Read Wiki](https://github.com/rahaaatul/automate-flows/wiki/Home) to learn more. 
+Flows I created for Automate app. [Read Wiki](https://github.com/rahaaatul/automate-flows/wiki/Home) to learn more about the flows.
 
 ## [Auto ADB Mode](https://github.com/rahaaatul/automate-flows/tree/main/Auto%20ADB%20Mode) `2`
 
