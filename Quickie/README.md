@@ -3,8 +3,8 @@
 <p align="center" style="font-size:20px; font-weight: bold; margin-bottom:4%;">When you need to search on the go!</p>
 
 <p align="center">
-  <a style="margin: 1%" href="[https://llamalab.com/automate/community/flows/48931](https://llamalab.com/automate/community/flows/48931)"><img alt="Download" src="https://img.shields.io/badge/Download-20B2AA?style=for-the-badge&color=f47067&logo=robotframework&logoColor=ffffff"></a>
-  <a style="margin: 1%" href="[https://llamalab.com/automate/community/flows/48931](https://llamalab.com/automate/community/flows/48931)"><img alt="=GitHub" src="https://img.shields.io/badge/Download-20B2AA?style=for-the-badge&color=c6d0f5&logo=github&logoColor=000000"></a>
+  <a style="margin: 1%" href="https://llamalab.com/automate/community/flows/48931"><img alt="Automate" src="https://img.shields.io/badge/Download-20B2AA?style=for-the-badge&color=f47067&logo=robotframework&logoColor=ffffff"></a>
+  <a style="margin: 1%" href="https://github.com/rahaaatul/automate-flows/raw/refs/heads/main/Quickie/%F0%9F%94%8D%20Quickie.flo"><img alt="=GitHub" src="https://img.shields.io/badge/Download-20B2AA?style=for-the-badge&color=c6d0f5&logo=github&logoColor=000000"></a>
 </p>
 
 
