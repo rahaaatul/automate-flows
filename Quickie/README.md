@@ -1,6 +1,12 @@
-# ![Quickie](.github/media/quickie-banner.png)
+![Quickie](/.github/media/quickie-banner.png)
 
-When you need to search on the go!
+<p align="center" style="font-size:20px; font-weight: bold; margin-bottom:4%;">When you need to search on the go!</p>
+
+<p align="center">
+  <a style="margin: 1%" href="[https://llamalab.com/automate/community/flows/48931](https://llamalab.com/automate/community/flows/48931)"><img alt="Download" src="https://img.shields.io/badge/Download-20B2AA?style=for-the-badge&color=f47067&logo=robotframework&logoColor=ffffff"></a>
+  <a style="margin: 1%" href="[https://llamalab.com/automate/community/flows/48931](https://llamalab.com/automate/community/flows/48931)"><img alt="=GitHub" src="https://img.shields.io/badge/Download-20B2AA?style=for-the-badge&color=c6d0f5&logo=github&logoColor=000000"></a>
+</p>
+
 
 > [!NOTE]
 >
@@ -10,7 +16,7 @@ When you need to search on the go!
 ## ✨ Features
 
 - Search anything, **_literally_**.
-- Use `@` constructor to search in websites provided by 🔍 **_QUICKIE_**.
+- Use `@` constructor to search in different websites provided by 🔍 **_QUICKIE_**.
 - Open current webpage in a browser, when it's just not enough.
 
 ## 📍 Available Sites

@@ -22,3 +22,9 @@ Flows I created for Automate app. [Read Wiki](https://github.com/rahaaatul/autom
 3. **Private DNS+**: Combines **Toggle Private DNS** & **Private DNS Changer** flows together.
    1. Tap QS Tile to Toggle Private DNS on/off.
    2. Long tap QS Tile to choose DNS hosts.
+
+## 🔍 [Quickie](https://github.com/rahaaatul/automate-flows/tree/main/Quickie)
+
+- Search anything, **_literally_**.
+- Use `@` constructor to search in different websites provided by 🔍 **_QUICKIE_**.
+- Open current webpage in a browser, when it's just not enough.
