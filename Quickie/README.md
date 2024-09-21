@@ -29,3 +29,12 @@
 >   - [Create an issue](https://github.com/rahaaatul/automate-flows/issues).
 
 `airbnb`, `aliexpress`, `amazon`, `aol`, `archive`, `ask`, `baidu`, `bandcamp`, `bing`, `bitbucket`, `booking`, `codepen`, `conservapedia`, `crunchbase`, `dailymotion`, `deviantart`, `dribbble`, `duckduckgo`, `ebay`, `ecosia`, `etsy`, `facebook`, `fandom`, `giphy`, `github`, `goodreads`, `google`, `imdb`, `instagram`, `itchio`, `kickstarter`, `lastfm`, `linkedin`, `medium`, `myspace`, `google news`, `npm`, `patreon`, `pinterest`, `producthunt`, `quora`, `rationalwiki`, `reddit`, `slack`, `snapchat`, `soundcloud`, `spotify`, `stack`, `startpage`, `tiktok`, `trello`, `tumblr`, `twitter`, `uncyclopedia`, `vimeo`, `vkontakte`, `waybackmachine`, `whois`, `wikia`, `wikibooks`, `wikihow`, `wikinews`, `wikipedia`, `wikiquote`, `wikisource`, `wikispecies`, `wikiversity`, `wikivoyage`, `wiktionary`, `yahoo`, `yandex`, `youtube`
+
+## 🧵 Changelogs
+
+1. **Initial Release** `Sepetmber 08, 2024`
+2. **Bug Fixes** `Sepetmber 09, 2024`
+   - Fixed normal search.
+   - Replaced normal ***tiktok search*** with ***tiktok user search***.
+     - Changed to user search. For whatever reason, normal search does not work on android browsers.
+     - For example, `@tiktok brookemonk_` will open the user's tiktok page.
