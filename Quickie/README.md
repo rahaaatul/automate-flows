@@ -37,4 +37,7 @@
    - Fixed normal search.
    - Replaced normal ***tiktok search*** with ***tiktok user search***.
      - Changed to user search. For whatever reason, normal search does not work on android browsers.
-     - For example, `@tiktok brookemonk_` will open the user's tiktok page.
+     - For example, `@tiktok_user brookemonk_` will open the user's tiktok page.
+3. **Big Change** `Sepetmber 09, 2024`
+   1. Downgraded from `1.44.1` to `1.43.2` for wider compatibility.
+   2. Site Added: `TMDB`, `TVDB` & `Trakt`.
