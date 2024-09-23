@@ -10,3 +10,5 @@ policy:
             keys: ["Islamic Prayer Alarm"]
           - name: Private DNS
             keys: ["Toggle Private DNS","Private DNS Changer","Private DNS+"]
+          - name: Quickie
+            keys: ["Quickie"]
