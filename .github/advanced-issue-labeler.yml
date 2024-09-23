@@ -4,11 +4,11 @@ policy:
       - id: [flow_name]
         block-list: [other]
         label:
-          - name: Auto ADB
+          - name: auto adb
             keys: ["Auto ADB Mode","Auto ADB + Shizuku"]
-          - name: Islamic Prayer Alarm
+          - name: islamic prayer alarm
             keys: ["Islamic Prayer Alarm"]
-          - name: Private DNS
+          - name: private dns
             keys: ["Toggle Private DNS","Private DNS Changer","Private DNS+"]
-          - name: Quickie
+          - name: quickie
             keys: ["Quickie"]
