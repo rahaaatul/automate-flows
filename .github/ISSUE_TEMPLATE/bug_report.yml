@@ -30,6 +30,7 @@ body:
         - Toggle Private DNS
         - Private DNS Changer
         - Private DNS+
+        - Quickie
       default: 0
     validations:
       required: true
@@ -58,8 +59,10 @@ body:
       label: Automate Version
       description: What version of Automate are you running?
       options:
-        - 1.43.1
-        - 1.43.0
+        - 1.44.2
+        - 1.44.1
+        - 1.44.0
+        - 1.43.2
       default: 0
     validations:
       required: true

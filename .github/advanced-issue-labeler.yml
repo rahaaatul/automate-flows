@@ -5,10 +5,10 @@ policy:
         block-list: [other]
         label:
           - name: auto adb
-            keys: ["Auto ADB Mode","Auto ADB + Shizuku"]
+            keys: ["Auto ADB Mode", "Auto ADB + Shizuku"]
           - name: islamic prayer alarm
             keys: ["Islamic Prayer Alarm"]
           - name: private dns
-            keys: ["Toggle Private DNS","Private DNS Changer","Private DNS+"]
+            keys: ["Toggle Private DNS", "Private DNS Changer", "Private DNS+"]
           - name: quickie
             keys: ["Quickie"]

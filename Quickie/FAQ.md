@@ -1,11 +1,17 @@
 # Frequently Asked Questions
 
-## Change default search engine
+## Changing the Default Search Engine
 
 > [!IMPORTANT]
 >
-> - One space after `@xxx ` is crucial for this flow to work.
+> - The space after the `@shortcut ` is essential for 🔍 ***Quickie*** to function properly.
 
-1. Open and edit `Web Dialog` block.
-2. Replace `@google ` with some other site in `SEARCH_ENGINE_LIST` variable block.
-   - For example: `@bing ` or `@duckduckgo`
+1. Open the `Web Dialog` block for editing.
+2. Replace `@google ` in `SEARCH_ENGINE_LIST["@google "]` with another site shortcut from the `SEARCH_ENGINE_LIST` variable block.
+   - For example, use: `SEARCH_ENGINE_LIST["@bing "]`.
+
+<br>
+
+---
+
+<br>

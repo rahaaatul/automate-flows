@@ -46,28 +46,28 @@
 
 ## 🧵 Release Notes `5`
 
-<a href="https://llamalab.com/automate/community/flows/48931"><img alt="Automate" src="https://img.shields.io/badge/Version_5-20B2AA?style=button&color=adb5bd"></a>
+<img alt="Automate" src="https://img.shields.io/badge/Version-5-20B2AA?style=button&color=adb5bd"/>
 
 - Site Added: `anilist.co`, `dumb.ducks.party`, `paulgo.io` & `myanimelist.net`.
 - Site Fixed: `vk.com`.
 
 <br>
 
-<a href="https://llamalab.com/automate/community/flows/48931"><img alt="Automate" src="https://img.shields.io/badge/Version_4-20B2AA?style=button&color=6c757d"></a>
+<img alt="Automate" src="https://img.shields.io/badge/Version-4-20B2AA?style=button&color=6c757d"/>
 
 - Site Added: `azlyrics.com`, `genius.com`, `searx.org` & `urbandictionary.com`.
 - Site Fixed: `archive.org`.
 
 <br>
 
-<a href="https://llamalab.com/automate/community/flows/48931"><img alt="Automate" src="https://img.shields.io/badge/Version_3-20B2AA?style=button&color=495057"></a>
+<img alt="Automate" src="https://img.shields.io/badge/Version-3-20B2AA?style=button&color=495057"/>
 
 - Downgraded from `1.44.1` to `1.43.2` for wider compatibility.
 - Site Added: `themoviedb.org`, `thetvdb.com` & `trakt.tv`.
 
 <br>
 
-<a href="https://llamalab.com/automate/community/flows/48931"><img alt="Automate" src="https://img.shields.io/badge/Version_2-20B2AA?style=button&color=343a40"></a>
+<img alt="Automate" src="https://img.shields.io/badge/Version-2-20B2AA?style=button&color=343a40"/>
 
  - Fixed normal search where it's incorrectly using the search as url.
  - Replaced normal ***tiktok search*** with ***tiktok user search***.
@@ -79,9 +79,10 @@
 
 <br>
 
-<a href="https://llamalab.com/automate/community/flows/48931"><img alt="Automate" src="https://img.shields.io/badge/Version_1-20B2AA?style=button&color=212529"></a>
+<img alt="Automate" src="https://img.shields.io/badge/Version-1-20B2AA?style=button&color=212529"/>
 
 - Initial Release.
+
 
 <!-- <a href="https://llamalab.com/automate/community/flows/48931"><img alt="Automate" src="https://img.shields.io/badge/Version_6-20B2AA?style=button&color=ee9b00"></a> -->
 
